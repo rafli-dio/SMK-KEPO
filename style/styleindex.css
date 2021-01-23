@@ -1,0 +1,22 @@
+.judul {
+  font-weight: bold;
+}
+
+.warna-bg {
+  background: linear-gradient(
+    to right,
+    rgba(91, 134, 229, 0.92),
+    rgba(54, 209, 220)
+  );
+}
+
+.jumbotron-bg {
+  background-size: cover;
+  background: url(../img/bg.jpg);
+  background-size: 300px;
+}
+
+.wadah {
+  background-color: green;
+  color: white;
+}
